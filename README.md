@@ -12,8 +12,9 @@ Authors: [Orly Liba](https://sites.google.com/corp/view/orly-liba/),
 [Huizhong Chen](https://www.linkedin.com/in/huizhong-chen-00776432),
 [Jonathan T. Barron](https://jonbarron.info/)
 
+![figure1](docs/sky-optimization-system-examples.png)
 
-#### Abstract
+## Abstract
 
 The sky is a major component of the appearance of a photograph, and its color and tone can strongly influence the mood of a picture. In nighttime photography, the sky can also suffer from noise and color artifacts. For this reason, there is a strong desire to process the sky in isolation from the rest of the scene to achieve an optimal look. 
 In this work, we propose an automated method, which can run as a part of a camera pipeline, for creating accurate sky alpha-masks and using them to improve the appearance of the sky.
