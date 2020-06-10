@@ -11,7 +11,7 @@ Authors: [Orly Liba](https://sites.google.com/corp/view/orly-liba/),
 [Huizhong Chen](https://www.linkedin.com/in/huizhong-chen-00776432),
 [Jonathan T. Barron](https://jonbarron.info/)
 
-![figure1](night-sight-teaser.png)
+![figure1](sky-optimization-system-examples.png)
 
 ## Abstract
 
