@@ -1,5 +1,4 @@
 # Sky Optimization: Semantically aware image processing of skies in low-light photography
-Website: https://google.github.io/sky-optimization/
 
 NTIRE CVPRW 2020
 
