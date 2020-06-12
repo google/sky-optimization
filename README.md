@@ -26,4 +26,5 @@ With this detailed mask we automatically apply post-processing steps to the sky 
 #### Downloads
 
 [Paper on CVF website](http://openaccess.thecvf.com/content_CVPRW_2020/html/w31/Liba_Sky_Optimization_Semantically_Aware_Image_Processing_of_Skies_in_Low-Light_CVPRW_2020_paper.html)
+
 arXiv - Coming soon!
