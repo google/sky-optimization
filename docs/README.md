@@ -28,4 +28,4 @@ With this detailed mask we automatically apply post-processing steps to the sky 
 
 arXiv - Coming soon!
 
-[Refined and non-refined sky-mask datsets](https://github.com/google/sky-optimization/tree/master/sky-mask-datasets), corresponding to the Results section of the paper.
+[Refined and non-refined sky-mask datsets](https://console.cloud.google.com/storage/browser/cvprw2020_sky_seg/public_data/), corresponding to the Results section of the paper.
